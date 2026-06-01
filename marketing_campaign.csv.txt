@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering?resource=download&select=customer_segmentation.csv
